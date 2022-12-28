@@ -1,0 +1,145 @@
+[
+    {
+        "id": "document",
+        "name": "AquaBridge_Kiba",
+        "version": "1.0"
+    },
+    {
+        "id": "1",
+        "name": "BentenBridge",
+        "description": "弁天橋",
+        "position": {
+            "cartographicDegrees": [
+                139.808575,
+                35.66859,
+                100
+            ]
+        },
+        "point": {
+            "color": {
+                "rgba": [
+                    255,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 8
+        }
+    },
+    {
+        "id": "2",
+        "name": "SawamiBridge",
+        "description": "沢海橋",
+        "position": {
+            "cartographicDegrees": [
+                139.809511,
+                35.670908,
+                100
+            ]
+        },
+        "point": {
+            "color": {
+                "rgba": [
+                    255,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 8
+        }
+    },
+    {
+        "id": "3",
+        "name": "HirakiBridge",
+        "description": "平木橋",
+        "position": {
+            "cartographicDegrees": [
+                139.805406,
+                35.668795,
+                100
+            ]
+        },
+        "point": {
+            "color": {
+                "rgba": [
+                    255,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 8
+        }
+    },
+    {
+        "id": "4",
+        "name": "ShiohamaBridge",
+        "description": "汐浜橋",
+        "position": {
+            "cartographicDegrees": [
+                139.805874,
+                35.665254,
+                100
+            ]
+        },
+        "point": {
+            "color": {
+                "rgba": [
+                    255,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 8
+        }
+    },
+    {
+        "id": "5",
+        "name": "HibariBridge",
+        "description": "雲雀橋",
+        "position": {
+            "cartographicDegrees": [
+                139.803229,
+                35.665533,
+                100
+            ]
+        },
+        "point": {
+            "color": {
+                "rgba": [
+                    255,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 8
+        }
+    },
+    {
+        "id": "6",
+        "name": "HunakiBridge",
+        "description": "舟木橋跡",
+        "position": {
+            "cartographicDegrees": [
+                139.804425,
+                35.669327,
+                100
+            ]
+        },
+        "point": {
+            "color": {
+                "rgba": [
+                    255,
+                    0,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 8
+        }
+    }
+]
